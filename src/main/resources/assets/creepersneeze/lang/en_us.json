@@ -1,0 +1,9 @@
+{
+    "_comment": "CONFIG",
+    "creepersneeze.config.title": "Creeper Sneeze",
+
+    "hungerplayers.creepersneeze.config": "Set  Hunger Effect to Player",
+    "hungerplayers.creepersneeze.config.tooltip": "Set to false if you still cancel Creepers to Hunger effect players.",
+    "_comment": "SOUNDS",
+    "creepersneeze.subtitle.achoo" : "Sneeze Sounds"
+}

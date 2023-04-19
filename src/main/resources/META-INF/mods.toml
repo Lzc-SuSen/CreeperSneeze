@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="creepersneeze"
+version="0.2"
+displayName="CreeperSneeze"
+credits="..."
+displayURL=""
+authors="SuSen36"
+description='''
+    Creeper Sneeze!
+'''
+
+[[dependencies.creepersneeze]]
+   modId="forge"
+   mandatory=true
+   versionRange="[40,)"
+   ordering="NONE"
+   side="BOTH"
+
+[[dependencies.creepersneeze]]
+   modId="minecraft"
+   mandatory=true
+   versionRange="[1.18.2,1.19)"
+   ordering="NONE"
+   side="BOTH"
