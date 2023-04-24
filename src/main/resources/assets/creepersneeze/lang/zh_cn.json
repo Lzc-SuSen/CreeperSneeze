@@ -1,8 +1,10 @@
 {
-  "_comment": "CONFIG",
-  "creepersneeze.config.title": "苦力怕喷嚏",
-  "hungerplayers.creepersneeze.config": "让玩家饥饿",
-  "hungerplayers.creepersneeze.config.tooltip": "设置为false取消饥饿效果",
-  "_comment": "SOUNDS",
-  "creepersneeze.subtitle.achoo" : "喷嚏声"
+    "_comment": "CONFIG",
+    "creepersneeze.config.title": "苦力怕喷嚏",
+    
+    "hungerplayers.creepersneeze.config": "让玩家饥饿",
+    "hungerplayers.creepersneeze.config.tooltip": "设置为false取消饥饿效果",
+    
+    "_comment": "SOUNDS",
+    "creepersneeze.subtitle.achoo" : "喷嚏声"
 }
